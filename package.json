@@ -1,0 +1,15 @@
+{
+  "name": "capy-tech-lp",
+  "version": "1.0.0",
+  "description": "Capy Tech Agency Landing Page - Light Mode",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "keywords": [
+    "landing-page",
+    "tailwind",
+    "stitch"
+  ],
+  "author": "Capy Tech",
+  "license": "MIT"
+}
